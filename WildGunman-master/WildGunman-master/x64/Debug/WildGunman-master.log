@@ -1,0 +1,27 @@
+﻿  Game.cpp
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Game.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Game.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Game.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Game.cpp(111,2): error C4496: se usó la extensión no estándar 'for each': reemplácela por una instrucción ranged-for
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Game.cpp(162,2): error C4496: se usó la extensión no estándar 'for each': reemplácela por una instrucción ranged-for
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Game.cpp(173,2): error C4496: se usó la extensión no estándar 'for each': reemplácela por una instrucción ranged-for
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Game.cpp(248,2): error C4496: se usó la extensión no estándar 'for each': reemplácela por una instrucción ranged-for
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Game.cpp(296,2): error C4496: se usó la extensión no estándar 'for each': reemplácela por una instrucción ranged-for
+  Innocent.cpp
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Innocent.cpp(15,54): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Innocent.cpp(15,54): warning C4244:         with
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Innocent.cpp(15,54): warning C4244:         [
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Innocent.cpp(15,54): warning C4244:             T=unsigned int
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Innocent.cpp(15,54): warning C4244:         ]
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Innocent.cpp(15,36): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Innocent.cpp(15,36): warning C4244:         with
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Innocent.cpp(15,36): warning C4244:         [
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Innocent.cpp(15,36): warning C4244:             T=unsigned int
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Innocent.cpp(15,36): warning C4244:         ]
+  Main.cpp
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Main.cpp(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Game.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Game.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Game.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\santino\Downloads\WildGunman-master\WildGunman-master\Main.cpp(5,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
